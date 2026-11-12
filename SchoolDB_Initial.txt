@@ -1,0 +1,9 @@
+Course: false,168,CMP,4
+Course: false,167,CMP,4
+Course: true,771,MAT,4
+Faculty: Ada Lovelace,1815,CMP,true
+Faculty: CMP,false
+Student: Grace Hopper,1906,CMP,false
+Student: CMP,false
+GeneralStaff: Alex Rivera,1980,IT,maintenance
+GeneralStaff: IT,records
